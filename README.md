@@ -19,7 +19,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/10260/10260914.png" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 
 <br />
 
