@@ -7,7 +7,6 @@
 
 
 
-# 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=denispatric&theme=blue-green&hide_border=false)<br/>
 
