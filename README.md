@@ -38,27 +38,8 @@
 
 ## <a name="projects">PROJECTS</a>
 
-- ### ***COLT 01/2023*** organised by Cherry-IT - Postman and additional topics related to the API
 
-  *(from March to April 2023)*
-  
-  :arrow_forward: <a href="https://github.com/k-czekaj/Trello_REST_API" target="_blank">Project repository: Trello REST API testing with Postman</a>
-  
-  Project scope:
-  
-  ☑️ getting to know the basic knowledge of REST API
-  
-  ☑️ getting to know the Postman tool
-  
-  ☑️ creating my own collections based on Trello documentation
-  
-  ☑️ learning to report bugs
-  
-  ☑️ learning to create test cases
-  
-  ☑️ learning GIT and getting to know GitHub
-
-- ### ***Challenge portfolio*** organised by DARE IT - QA Manual Testing 
+- ### ***Curs Software Tester*** organizat de GO IT 
 
   *(from January to February 2023)*
 
@@ -113,6 +94,28 @@
   :arrow_forward: [**SQL tasks - advanced**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md#subtask1) 
 
   :arrow_forward: [**SQL tasks - basics**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md#subtask3)
+
+
+- ### ***COLT 01/2023*** organised by Cherry-IT - Postman and additional topics related to the API
+
+  *(from March to April 2023)*
+  
+  :arrow_forward: <a href="https://github.com/k-czekaj/Trello_REST_API" target="_blank">Project repository: Trello REST API testing with Postman</a>
+  
+  Project scope:
+  
+  ☑️ getting to know the basic knowledge of REST API
+  
+  ☑️ getting to know the Postman tool
+  
+  ☑️ creating my own collections based on Trello documentation
+  
+  ☑️ learning to report bugs
+  
+  ☑️ learning to create test cases
+  
+  ☑️ learning GIT and getting to know GitHub
+
 
 ## <a name="courses">COURSES</a>
 
