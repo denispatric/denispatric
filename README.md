@@ -2,7 +2,7 @@
 
 **`QA Tester (Developer/Filmmaker/Creator)`**
 
-👋 Hello! I'm Denis, a passionate Junior QA Manual Tester with a keen eye for detail and a commitment to ensuring software quality. 🕵️‍♂️ My journey in the world of testing involves meticulously exploring applications, identifying bugs, and collaborating with development teams to deliver high-quality software. 🚀 Excited to contribute to projects that value precision and user satisfaction. Let's collaborate and make software testing an integral part of the development process! 🧪🛠️ #QA #ManualTesting #SoftwareQuality
+👋 Hello! I'm Denis, a passionate QA Tester with a keen eye for detail and a commitment to ensuring software quality. 🕵️‍♂️ My journey in the world of testing involves meticulously exploring applications, identifying bugs, and collaborating with development teams to deliver high-quality software. 🚀 Excited to contribute to projects that value precision and user satisfaction. Let's collaborate and make software testing an integral part of the development process! 🧪🛠️ #QA #ManualTesting #SoftwareQuality
 
 
 
