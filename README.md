@@ -39,9 +39,9 @@
 ## <a name="projects">PROJECTS</a>
 
 
-- ### ***Personal Project*** underarmour.com
+- ### Personal Project - underarmour.com
 
-  *(from January to February 2024)*
+  *(from March to April 2024)*
 
   :grey_question: [What is this project? - introduction](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/README.md)
 
