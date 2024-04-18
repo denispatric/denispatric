@@ -39,9 +39,9 @@
 ## <a name="projects">PROJECTS</a>
 
 
-- ### ***Curs Software Tester*** organizat de GO IT 
+- ### ***Personal Project*** underarmour.com
 
-  *(from January to February 2023)*
+  *(from January to February 2024)*
 
   :grey_question: [What is this project? - introduction](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/README.md)
 
