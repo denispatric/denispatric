@@ -1,8 +1,7 @@
 
-# [DARE IT challenge portfolio](https://www.dareit.io/challenges/qa-manual-testing) - QA Manual Testing :mag:
+# [PERSONAL PROJECT - UNDERARMOUR.COM](https://www.underarmour.com/en-us/) -  :mag:
 
-<p align="justify">The aim of this e-commerce project is to create an online shopping platform that is both user-friendly and secure, enabling customers to effortlessly browse, purchase, and track their orders.
- <b>QA Manual testing project</b>. Each week there were different tasks performed in <b>weekly sprints</b>. Throughout the course, I was able to ask questions to the mentors. During the challenge, I had the opportunity to learn how to use many tools such as <b>Jira, Slack, Chrome DevTools, MySQL</b> and <b>Markdown</b>.</p>
+<p align="justify">The aim of this e-commerce project is to create an online shopping platform that is both user-friendly and secure, enabling customers to effortlessly browse, purchase, and track their orders. Each week there were different tasks performed in <b>weekly sprints</b>. During the project, I had the opportunity to learn how to use many tools such as <b>Jira, Slack, Chrome DevTools, MySQL</b> and <b>Markdown</b>.</p>
 
 ### What have I learned during the project?
 
