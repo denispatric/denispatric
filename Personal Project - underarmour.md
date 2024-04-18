@@ -1,7 +1,7 @@
 
 # [PERSONAL PROJECT - UNDERARMOUR.COM](https://www.underarmour.com/en-us/)  :mag:
 
-<p align="justify">The aim of this e-commerce project is to create an online shopping platform that is both user-friendly and secure, enabling customers to effortlessly browse, purchase, and track their orders. Each week there were different tasks performed in <b>weekly sprints</b>. During the project, I had the opportunity to learn how to use many tools such as <b>Jira, Slack, Chrome DevTools, MySQL</b> and <b>Markdown</b>.</p>
+<p align="justify">The aim of this e-commerce project is to create an online shopping platform that is both user-friendly and secure, enabling customers to effortlessly browse, purchase, and track their orders. Each week there were different tasks performed in <b>weekly sprints</b>. During the project, I had the opportunity to learn how to use many tools such as <b>Jira, Chrome DevTools, MySQL</b> and <b>Markdown</b>.</p>
 
 ### What have I learned during the project?
 
@@ -13,14 +13,12 @@
 
 ### List of tasks that I completed during the project:
 
-👉 [Task 1: Exploratory testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task1.md)
+👉 [Task 1: Test cases](https://docs.google.com/spreadsheets/d/1fwttaxo9Lh59xjd4034dEC082zfP9GfW/edit#gid=1881651618)
 
-👉 [Task 2: Test cases](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task2.md)
+👉 [Task 2: Bug reporting](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task3.md)
 
-👉 [Task 3: Bug reporting](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task3.md)
+👉 [Task 3: Mobile app testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task4.md)
 
-👉 [Task 4: Mobile app testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task4.md)
+👉 [Task 4: SQL part 1](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
 
-👉 [Task 5: SQL part 1](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
-
-👉 [Task 6: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
+👉 [Task 5: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
