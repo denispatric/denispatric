@@ -11,7 +11,7 @@
 
 :heavy_check_mark: creating a test report :heavy_check_mark: using Jira to bug reporting :heavy_check_mark: SQL</p>
 
-### List of tasks that I completed during the challenge:
+### List of tasks that I completed during the project:
 
 👉 [Task 1: Exploratory testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task1.md)
 
