@@ -15,7 +15,7 @@
 
 👉 [Task 1: Test cases](https://docs.google.com/spreadsheets/d/1fwttaxo9Lh59xjd4034dEC082zfP9GfW/edit#gid=1881651618)
 
-👉 [Task 2: Bug reporting](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task3.md)
+👉 [Task 2: Bug reporting](https://docs.google.com/spreadsheets/d/1Cv3nn0Q9dD_VqTctmE9bg4JclOPpa_6z/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
 
 👉 [Task 3: Mobile app testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task4.md)
 
