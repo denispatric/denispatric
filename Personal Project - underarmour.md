@@ -15,7 +15,7 @@
 
 👉 [Task 1: Test cases](https://docs.google.com/spreadsheets/d/1fwttaxo9Lh59xjd4034dEC082zfP9GfW/edit#gid=1881651618)
 
-👉 [Task 2: Bug reporting](https://docs.google.com/spreadsheets/d/1Cv3nn0Q9dD_VqTctmE9bg4JclOPpa_6z/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true); 👉 [ Link to the project in Jira ](https://denisqatester.atlassian.net/jira/software/projects/PROJ/boards/2?atlOrigin=eyJpIjoiODIxMTNlOWY4YjAyNGE0Y2FkZGE4N2I0M2E3ZjJkNWUiLCJwIjoiaiJ9)
+👉 [Task 2: Bug reporting](https://docs.google.com/spreadsheets/d/1Cv3nn0Q9dD_VqTctmE9bg4JclOPpa_6z/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true); 👉 [ Link to the bug reports in Jira ](https://denisqatester.atlassian.net/jira/software/projects/PROJ/boards/2?atlOrigin=eyJpIjoiODIxMTNlOWY4YjAyNGE0Y2FkZGE4N2I0M2E3ZjJkNWUiLCJwIjoiaiJ9)
 
 👉 [Task 3: Test report](https://docs.google.com/document/d/1469svFx3vfYzzE4dHN1AeK5NWmnm1YeX/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
 
