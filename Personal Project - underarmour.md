@@ -31,3 +31,39 @@
 👉 [6. Testcase Development](https://docs.google.com/spreadsheets/d/1jQXi5-h2hEpKCjZn638hcrH4EImBm_7C/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
 
 👉 [7. Test Environments](https://docs.google.com/document/d/1UPHkGFplzIFtAMd6eviBQlYF5xUVaCW-/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+
+## <a name="sub"></a>
+
+
+### [- DECATHLON MOBILE APP](https://play.google.com/store/apps/details?id=com.decathlon.app)  :mag:
+
+:point_right: [👉 Link to the bug report from exploratory testing of the mobile application 📱](https://docs.google.com/spreadsheets/d/1uclKQI_c7yke7ZWqVmKOVG9JvaOBCUuO/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+What is this application for? What is the purpose of this application?
+
+The Decathlon mobile app serves as a platform for users to browse, purchase, and review sports equipment, apparel, and accessories. Its primary goal is to provide a seamless experience for customers to discover and buy sporting goods. The app generates revenue through product sales and possibly through additional services like equipment maintenance or special promotions.
+
+Who will be the end user of the application?
+
+The end users of the Decathlon app are diverse, ranging from individuals of varying ages, backgrounds, and interests to sports enthusiasts and possibly sports teams or organizations. Essentially, anyone interested in purchasing sporting goods can be a user of the app, making it widely accessible across different demographics.
+
+Do you think the application is user friendly?
+
+Navigating through the Decathlon app is generally straightforward and intuitive. However, some users may encounter challenges with certain functionalities, such as managing listings or understanding specific features unique to the platform. While the app's interface is user-friendly overall, improvements could be made to streamline certain processes and enhance the user experience further.
+
+How would you improve the application? What would you improve about it? Do you have any ideas for additional functionality?
+
+- Enhanced Search Algorithms
+Improving the search engine algorithms to deliver more accurate and relevant results, especially for multi-word or specific searches, would greatly enhance the user experience.
+
+- Improved Rating System
+Revising the rating system to be more intuitive and allowing users to rate sellers even after missing initial prompts could facilitate better feedback collection and trust-building within the community.
+
+- Expanded Search Filters
+Adding more search filters, such as distinguishing between new and used items, would provide users with greater control and refinement over their search queries.
+
+- Additional Listing Fields
+Including suggested fields in the listing process, such as brand, color, or product details, could improve searchability and help users find specific items more efficiently.
+
+What differences do you see between testing a web application and a native application?
+
+Testing the Decathlon mobile app compared to its web counterpart presented distinct differences in user experience, functionality, and testing methodologies. The mobile app's streamlined design and limited screen space required a focus on optimizing navigation and usability for smaller devices. Additionally, the mobile app's reliance on touch gestures and varying screen sizes necessitated thorough testing across different mobile platforms and devices to ensure consistent performance and compatibility. While both versions shared core functionalities, the nuances of mobile interaction and platform-specific considerations required tailored testing approaches to address the unique challenges posed by each platform.
