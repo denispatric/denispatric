@@ -1,7 +1,7 @@
 
 # PERSONAL PROJECTS 
 
-### What have I learned during the projects?
+### What have I learned during these projects?
 
 <p align="justify">:heavy_check_mark: testing web applications :heavy_check_mark: testing mobile applications :heavy_check_mark: exploratory testing
 
