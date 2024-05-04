@@ -37,7 +37,8 @@
 
 ### [- DECATHLON MOBILE APP](https://play.google.com/store/apps/details?id=com.decathlon.app)  :mag:
 
-:point_right: [👉 Link to the bug report from exploratory testing of the mobile application 📱](https://docs.google.com/spreadsheets/d/1uclKQI_c7yke7ZWqVmKOVG9JvaOBCUuO/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+[👉 Link to the bug report from exploratory testing of the mobile application 📱](https://docs.google.com/spreadsheets/d/1uclKQI_c7yke7ZWqVmKOVG9JvaOBCUuO/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+
 What is this application for? What is the purpose of this application?
 
 The Decathlon mobile app serves as a platform for users to browse, purchase, and review sports equipment, apparel, and accessories. Its primary goal is to provide a seamless experience for customers to discover and buy sporting goods. The app generates revenue through product sales and possibly through additional services like equipment maintenance or special promotions.
