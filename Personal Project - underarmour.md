@@ -37,11 +37,11 @@
 
 ### [- DECATHLON MOBILE APP](https://play.google.com/store/apps/details?id=com.decathlon.app)  :mag:
 
-[👉 Link to the bug report from exploratory testing of the mobile application](https://docs.google.com/spreadsheets/d/1uclKQI_c7yke7ZWqVmKOVG9JvaOBCUuO/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+👉[Link to the bug report from exploratory testing of the mobile application](https://docs.google.com/spreadsheets/d/1uclKQI_c7yke7ZWqVmKOVG9JvaOBCUuO/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
 
-[👉 Link to the bugs reported in Jira](https://denisqatester.atlassian.net/jira/software/projects/KAN/boards/1?atlOrigin=eyJpIjoiMzFhZWZiY2UyOTk4NDYyY2JjNDRmMjg2YTA0NjAyZDQiLCJwIjoiaiJ9)
+👉[Link to the bugs reported in Jira](https://denisqatester.atlassian.net/jira/software/projects/KAN/boards/1?atlOrigin=eyJpIjoiMzFhZWZiY2UyOTk4NDYyY2JjNDRmMjg2YTA0NjAyZDQiLCJwIjoiaiJ9)
 
-[👉 Link to the log files](https://drive.google.com/drive/folders/1dJlf5lGWQC7PiZb2hjuyZzEy3m9jkU_f?usp=drive_link)
+👉[Link to the log files](https://drive.google.com/drive/folders/1dJlf5lGWQC7PiZb2hjuyZzEy3m9jkU_f?usp=drive_link)
 
 What is this application for? What is the purpose of this application?
 
