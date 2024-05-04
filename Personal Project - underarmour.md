@@ -45,15 +45,15 @@
 
 What is this application for? What is the purpose of this application?
 
-The Decathlon mobile app serves as a platform for users to browse, purchase, and review sports equipment, apparel, and accessories. Its primary goal is to provide a seamless experience for customers to discover and buy sporting goods. The app generates revenue through product sales and possibly through additional services like equipment maintenance or special promotions.
+- The Decathlon mobile app serves as a platform for users to browse, purchase, and review sports equipment, apparel, and accessories. Its primary goal is to provide a seamless experience for customers to discover and buy sporting goods. The app generates revenue through product sales and possibly through additional services like equipment maintenance or special promotions.
 
 Who will be the end user of the application?
 
-The end users of the Decathlon app are diverse, ranging from individuals of varying ages, backgrounds, and interests to sports enthusiasts and possibly sports teams or organizations. Essentially, anyone interested in purchasing sporting goods can be a user of the app, making it widely accessible across different demographics.
+- The end users of the Decathlon app are diverse, ranging from individuals of varying ages, backgrounds, and interests to sports enthusiasts and possibly sports teams or organizations. Essentially, anyone interested in purchasing sporting goods can be a user of the app, making it widely accessible across different demographics.
 
 Do you think the application is user friendly?
 
-Navigating through the Decathlon app is generally straightforward and intuitive. However, some users may encounter challenges with certain functionalities, such as managing listings or understanding specific features unique to the platform. While the app's interface is user-friendly overall, improvements could be made to streamline certain processes and enhance the user experience further.
+- Navigating through the Decathlon app is generally straightforward and intuitive. However, some users may encounter challenges with certain functionalities, such as managing listings or understanding specific features unique to the platform. While the app's interface is user-friendly overall, improvements could be made to streamline certain processes and enhance the user experience further.
 
 How would you improve the application? What would you improve about it? Do you have any ideas for additional functionality?
 
@@ -71,4 +71,4 @@ Including suggested fields in the listing process, such as brand, color, or prod
 
 What differences do you see between testing a web application and a native application?
 
-Testing the Decathlon mobile app compared to its web counterpart presented distinct differences in user experience, functionality, and testing methodologies. The mobile app's streamlined design and limited screen space required a focus on optimizing navigation and usability for smaller devices. Additionally, the mobile app's reliance on touch gestures and varying screen sizes necessitated thorough testing across different mobile platforms and devices to ensure consistent performance and compatibility. While both versions shared core functionalities, the nuances of mobile interaction and platform-specific considerations required tailored testing approaches to address the unique challenges posed by each platform.
+- Testing the Decathlon mobile app compared to its web counterpart presented distinct differences in user experience, functionality, and testing methodologies. The mobile app's streamlined design and limited screen space required a focus on optimizing navigation and usability for smaller devices. Additionally, the mobile app's reliance on touch gestures and varying screen sizes necessitated thorough testing across different mobile platforms and devices to ensure consistent performance and compatibility. While both versions shared core functionalities, the nuances of mobile interaction and platform-specific considerations required tailored testing approaches to address the unique challenges posed by each platform.
