@@ -86,4 +86,4 @@ The result of the project is a collection of Trello REST API tests performed in 
 --------
 ### :point_down: If the view in your Postman looks like the one on the screenshot below, then you have successfully completed all the steps and run my collection. CONGRATULATIONS! :clap:
 
-![2023-05-21_17h00_40](https://github.com/k-czekaj/Trello_REST_API/assets/122294284/b99d7fa1-1199-4846-a95e-a2473926df8d)
+![image](https://github.com/denispatric/denispatric/assets/83760732/14240dd6-30d0-45d9-9cd0-4e43088ca21d)
