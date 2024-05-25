@@ -1,4 +1,4 @@
-### <a name="kropka1"><p align="justify">1. Display Dim Currency Table.</p></a>
+### <a name="kropka1"><p align="justify">1. Display Currency Table.</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimCurrency]
