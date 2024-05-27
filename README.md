@@ -72,7 +72,7 @@
 
 👉[Link to the log files](https://drive.google.com/drive/folders/1dJlf5lGWQC7PiZb2hjuyZzEy3m9jkU_f?usp=drive_link)
 
-- # AGILEHUB 05/2024 project: Trello REST API testing with Postman
+# AGILEHUB 05/2024 project: Trello REST API testing with Postman
 
   :arrow_forward: <a href="https://github.com/denispatric/denispatric/edit/main/Postman%20Project%20-%20agilehub.md" target="_blank">Project repository: Trello REST API testing with Postman</a>
   
@@ -110,6 +110,17 @@
 | `SELECT * FROM [dbo].[DimReseller] WHERE AddressLine2 IS NULL;` | Retrieves all columns from the `DimReseller` table where the address line 2 is NULL. |
 | `SELECT * FROM [dbo].[DimReseller] WHERE NumberEmployees > 9 AND OrderMonth BETWEEN 2 AND 8;` | Retrieves all columns from the `DimReseller` table where the number of employees is greater than 9 and the order month is between February and August. |
 | `SELECT Customers.CustomerName, Orders.OrderID FROM Customers INNER JOIN Orders ON Customers.CustomerID = Orders.CustomerID ORDER BY CustomerName;` | Retrieves customer names and their corresponding order IDs, sorted by customer name. |
+
+
+## <a name="courses">MY JOURNEY AS A FREELANCE SOFTWARE TESTER</a>
+
+Freelance Software Tester at uTest, Testerwork, test IO								          	   Dec. 2023 – Present
+	My responsibilities included performing manual testing activities like writing test plans, test cases, defect reports, test progress & summary reports. I also performed web automation testing using Selenium, Performance Testing using Jmeter, & API Testing using Postman.
+	I worked on several testing projects like Nike, Revolut, Porche, eToro, Skrill & Coinbase. The testing included running exploratory testing on websites, Android, & iOS applications. 
+
+![image](https://github.com/denispatric/denispatric/assets/83760732/56b2a2cf-fc31-457d-8b0b-14d5a6abf096)
+
+![image](https://github.com/denispatric/denispatric/assets/83760732/128a32e9-61d6-4617-a846-265b1450b6df)
 
 
 ## <a name="courses">COURSES</a>
