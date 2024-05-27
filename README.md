@@ -94,7 +94,22 @@
 # AGILEHUB 05/2024: SQL Project
 
   :arrow_forward: <a href="https://github.com/denispatric/denispatric/blob/main/SQL%20Project.md" target="_blank">Project repository: SQL Project</a>
-
+  
+ ### Operators/queries I learned 
+ | Query | Description |
+|-------|-------------|
+| `SELECT NumberEmployees, OrderFrequency FROM [dbo].[DimReseller] WHERE NumberEmployees < 5 ORDER BY NumberEmployees;` | Retrieves the number of employees and order frequency from the `DimReseller` table where the number of employees is less than 5, sorted by number of employees. |
+| `SELECT * FROM [dbo].[DimCurrency];` | Retrieves all columns from the `DimCurrency` table. |
+| `SELECT CurrencyKey, CurrencyName FROM [dbo].[DimCurrency];` | Retrieves the currency key and currency name from the `DimCurrency` table. |
+| `SELECT * FROM [dbo].[DimReseller] ORDER BY NumberEmployees;` | Retrieves all columns from the `DimReseller` table, sorted by number of employees. |
+| `SELECT * FROM [dbo].[DimReseller] WHERE FirstOrderYear = '2011';` | Retrieves all columns from the `DimReseller` table where the first order year is 2011. |
+| `SELECT * FROM [dbo].[DimReseller] WHERE OrderMonth >= 4 AND OrderMonth <= 7;` | Retrieves all columns from the `DimReseller` table where the order month is between April and July. |
+| `SELECT * FROM [dbo].[DimReseller] WHERE OrderMonth = 2 OR OrderMonth = 4 OR OrderMonth = 6;` | Retrieves all columns from the `DimReseller` table where the order month is February, April, or June. |
+| `SELECT * FROM [dbo].[DimReseller] WHERE OrderMonth IN (1, 3, 5);` | Retrieves all columns from the `DimReseller` table where the order month is January, March, or May. |
+| `SELECT * FROM [dbo].[DimReseller] WHERE ResellerName LIKE 'De%';` | Retrieves all columns from the `DimReseller` table where the reseller name starts with "De". |
+| `SELECT * FROM [dbo].[DimReseller] WHERE AddressLine2 IS NULL;` | Retrieves all columns from the `DimReseller` table where the address line 2 is NULL. |
+| `SELECT * FROM [dbo].[DimReseller] WHERE NumberEmployees > 9 AND OrderMonth BETWEEN 2 AND 8;` | Retrieves all columns from the `DimReseller` table where the number of employees is greater than 9 and the order month is between February and August. |
+| `SELECT Customers.CustomerName, Orders.OrderID FROM Customers INNER JOIN Orders ON Customers.CustomerID = Orders.CustomerID ORDER BY CustomerName;` | Retrieves customer names and their corresponding order IDs, sorted by customer name. |
 
 
 ## <a name="courses">COURSES</a>
