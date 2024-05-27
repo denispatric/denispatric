@@ -1,6 +1,6 @@
 # AGILEHUB 05/2024 project: Trello REST API testing with Postman
 
-## :information_desk_person: About project
+## :star2: About project
 
 <p align="justify">Agilehub is a Romanian non-governmental organization, apolitical and unaffiliated with any other entity. During the project, I had the chance to acquire fundamental knowledge of the REST API, become familiar with the Postman tool, create my collections using Trello documentation, learn GIT, and explore GitHub.
 
