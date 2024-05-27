@@ -1,4 +1,4 @@
-### <a name="kropka1"><p align="justify">1. Display Currency Table.</p></a>
+### <a name="kropka1"><p align="justify">1. Display Currency Table</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimCurrency]
@@ -8,7 +8,7 @@ SELECT * FROM [dbo].[DimCurrency]
 
 
 
-### <a name="kropka2"><p align="justify">2. .</p></a>
+### <a name="kropka2"><p align="justify">2. Display CurrencyKey and CurrencyName table </p></a>
 
 ```sql
 SELECT CurrencyKey,CurrencyName FROM [dbo].[DimCurrency]
