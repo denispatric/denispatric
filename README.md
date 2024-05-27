@@ -114,11 +114,45 @@
 
 ## <a name="courses">MY JOURNEY AS A FREELANCE SOFTWARE TESTER</a>
 
-Freelance Software Tester at uTest, Testerwork, test IO								          	   Dec. 2023 – Present
-	My responsibilities included performing manual testing activities like writing test plans, test cases, defect reports, test progress & summary reports. I also performed web automation testing using Selenium, Performance Testing using Jmeter, & API Testing using Postman.
-	I worked on several testing projects like Nike, Revolut, Porche, eToro, Skrill & Coinbase. The testing included running exploratory testing on websites, Android, & iOS applications. 
+Dec. 2023 – Present
+
+Welcome to the thrilling chronicles of my journey as a freelance software tester! Buckle up as we navigate through the dynamic world of quality assurance and testing.
+
+🚀 Mission Control: My Responsibilities
+
+Manual Testing: Executed test plans, test cases, and defect reports, while keeping everyone in the loop with comprehensive test progress and summary reports.
+
+Automation: Web automation wizardry using Selenium to ensure seamless user experiences.
+
+Performance: Pushing the limits with JMeter to guarantee optimal performance under pressure.
+
+API: Harnessing the power of Postman to test APIs with precision and flair.
+
+🌍 Diverse Adventures: Testing Projects
+I've had the incredible opportunity to work on high-profile projects for industry giants like:
+
+Nike: Ensuring their digital presence runs as smoothly as their sneakers.
+
+Revolut: Keeping financial services secure and efficient.
+
+Porsche: Driving excellence in automotive technology.
+
+eToro: Enhancing user experiences in the world of trading.
+
+Skrill: Guaranteeing flawless transactions for a leading payment processor.
+
+Coinbase: Making cryptocurrency trading as reliable as possible.
+
+🕵️ Exploratory Expeditions
+Whether it's diving into websites, Android apps, or iOS applications, I've conducted thorough exploratory testing to uncover hidden issues and ensure top-notch quality.
+
+Join me on this exhilarating journey where every bug squashed and every feature polished makes the digital world a better place! 🚀👨‍💻
+
+## Congratulations to ME! I was named one of our most recent Academy Testers of the Week!
 
 ![image](https://github.com/denispatric/denispatric/assets/83760732/56b2a2cf-fc31-457d-8b0b-14d5a6abf096)
+
+## Another milestone I have reached as a Bronze Tester, meaning that I am a part of the top 15% of testers on the platform 🥳
 
 ![image](https://github.com/denispatric/denispatric/assets/83760732/128a32e9-61d6-4617-a846-265b1450b6df)
 
