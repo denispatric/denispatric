@@ -30,77 +30,51 @@
 
 
 
-<p align="justify"><b>What are my skills?</b> During my training process, I have learned <b>SQL, Chrome DevTools, Jira, Confluence, Postman, GIT</b> and <b>HTML/CSS</b> basics.</p>
+### What have I learned during these projects?
 
-### <p align="center"><a href="linkedinLINK">☑️ Visit my <b>LinkedIn</b> profile</a></p>
+<p align="justify">:heavy_check_mark: testing web applications :heavy_check_mark: testing mobile applications :heavy_check_mark: exploratory testing
 
-###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/ilustracja-koncepcji-testowania-kodu-oprogramowania_21532464.htm#page=2&query=tester%20oprogramowania&position=15&from_view=search&track=ais" target="_blank">Image by Storyset on Freepik</a></p> 
+:heavy_check_mark: writing test cases :heavy_check_mark: using DevTools for testing :heavy_check_mark: bug reporting 
 
-## <a name="projects">PROJECTS</a>
+:heavy_check_mark: creating a test report :heavy_check_mark: using Jira for bug reporting :heavy_check_mark: collecting logs from both web and mobile devices :heavy_check_mark:</p>
 
+### [- UNDERARMOUR.COM](https://www.underarmour.com/en-us/)  :mag:
 
-- ### Personal Project - underarmour.com
-
-  *(from March to April 2024)*
-
-  :grey_question: [What is this project? - introduction](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/README.md)
-
-  List of completed tasks:
-
-  :one: [Task 1: Exploratory testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task1.md)
-
-  :two: [Task 2: Test cases](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task2.md)
-
-  :three: [Task 3: Bug reporting](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task3.md)
-
-  :four: [Task 4: Mobile app testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task4.md)
-
-  :five: [Task 5: SQL part 1](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
-
-  :six: [Task 6: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
-
-- ### <a name="testcases">TEST CASES example</a>
-
-  *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web application</a>
-
-  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing" target="_blank"><b>Test cases based on the User Story</b></a>
-
-  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing" target="_blank"><b>Test cases based on explorary testing</b></a>
-
-- ### <a name="bugreport">BUG REPORT example</a>
-
-  *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web application</a>
-
-  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing" target="_blank"><b>Bug report - web application testing</b></a>
-  
-  *Test environment:* <a href="https://play.google.com/store/apps/details?id=pl.tablica&hl=pl&gl=US" target="_blank">OLX - mobile app</a>
-  
-  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing" target="_blank"><b>Bug report - mobile app testing</b></a>
-
-- ### <a name="testreport">TEST REPORT example</a>
-
-  *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web application</a>
-
-  :arrow_forward: <a href="https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing" target="_blank"><b>Test report - web application testing</b></a>
-  
-- ### <a name="jira">JIRA - BUG REPORT example</a>
-
-  *Test environment:* <a href="https://play.google.com/store/apps/details?id=pl.swipeto&hl=pl&gl=US" target="_blank">SwipeTo - mobile app</a>
-  
-  :arrow_forward: <a href="https://drive.google.com/drive/folders/15xQzIkuAT2grWet6FmunHI4-jhl9x9Rq?usp=sharing" target="_blank"><b>Bug report - mobile app testing (Polish)</b></a>
-
-- ### <a name="sql">SQL tasks</a> 
-
-  :arrow_forward: [**SQL tasks - advanced**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md#subtask1) 
-
-  :arrow_forward: [**SQL tasks - basics**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md#subtask3)
+<p align="justify">The aim of this e-commerce project is to create an online shopping platform that is both user-friendly and secure, enabling customers to effortlessly browse, purchase, and track their orders. Each week there were different tasks performed in <b>weekly sprints</b>. During the project, I had the opportunity to learn how to use many tools such as <b>Jira, Chrome DevTools and <b>Markdown</b>.</p>
 
 
-- ### ***COLT 01/2023*** organised by Cherry-IT - Postman and additional topics related to the API
+### List of tasks that I completed during the project:
 
-  *(from March to April 2023)*
-  
-  :arrow_forward: <a href="https://github.com/k-czekaj/Trello_REST_API" target="_blank">Project repository: Trello REST API testing with Postman</a>
+ :one: [ Test cases](https://docs.google.com/spreadsheets/d/1fwttaxo9Lh59xjd4034dEC082zfP9GfW/edit#gid=1881651618)
+
+ :two: [ Bug reporting](https://docs.google.com/spreadsheets/d/1f2ke7PqnNqvC-Paw1nBMsEQ1MHffGDxj/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true) 
+- [ Link to the bug reports in Jira ](https://denisqatester.atlassian.net/jira/software/projects/PROJ/boards/2?atlOrigin=eyJpIjoiODIxMTNlOWY4YjAyNGE0Y2FkZGE4N2I0M2E3ZjJkNWUiLCJwIjoiaiJ9)
+- [ Link to the log files ](https://drive.google.com/drive/folders/1HDF_F8vH51Vg7QCOlbyHyokXRwSO31MW?usp=drive_link)
+
+ :three: [ Test report](https://docs.google.com/document/d/1469svFx3vfYzzE4dHN1AeK5NWmnm1YeX/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+
+ 4️⃣ [ Requirment Documentation SRS](https://docs.google.com/document/d/1y8j9TbhoWZaZDWZZ_mpLevOD1tENEo3m/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+
+ 5️⃣ [ Test Plan](https://docs.google.com/document/d/1RAy5JnLvCIeW08qyQAiNRSEzwwYqPhbe/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+
+ 6️⃣ [Testcase Development](https://docs.google.com/spreadsheets/d/1jQXi5-h2hEpKCjZn638hcrH4EImBm_7C/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+
+ 7️⃣ [Test Environments](https://docs.google.com/document/d/1UPHkGFplzIFtAMd6eviBQlYF5xUVaCW-/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+
+## <a name="sub"></a>
+
+
+### [- DECATHLON MOBILE APP](https://play.google.com/store/apps/details?id=com.decathlon.app)  :mag:
+
+👉[Link to the bug report from exploratory testing of the mobile application](https://docs.google.com/spreadsheets/d/1uclKQI_c7yke7ZWqVmKOVG9JvaOBCUuO/edit?usp=drive_link&ouid=101099971300589548082&rtpof=true&sd=true)
+
+👉[Link to the bugs reported in Jira](https://denisqatester.atlassian.net/jira/software/projects/KAN/boards/1?atlOrigin=eyJpIjoiMzFhZWZiY2UyOTk4NDYyY2JjNDRmMjg2YTA0NjAyZDQiLCJwIjoiaiJ9)
+
+👉[Link to the log files](https://drive.google.com/drive/folders/1dJlf5lGWQC7PiZb2hjuyZzEy3m9jkU_f?usp=drive_link)
+
+- # AGILEHUB 05/2024 project: Trello REST API testing with Postman
+
+  :arrow_forward: <a href="https://github.com/denispatric/denispatric/edit/main/Postman%20Project%20-%20agilehub.md" target="_blank">Project repository: Trello REST API testing with Postman</a>
   
   Project scope:
   
@@ -115,6 +89,12 @@
   ☑️ learning to create test cases
   
   ☑️ learning GIT and getting to know GitHub
+
+
+# AGILEHUB 05/2024: SQL Project
+
+  :arrow_forward: <a href="https://github.com/denispatric/denispatric/blob/main/SQL%20Project.md" target="_blank">Project repository: SQL Project</a>
+
 
 
 ## <a name="courses">COURSES</a>
@@ -343,51 +323,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/122294284/219984340-432a6a4e-6f59-4125-b9ca-efb6094ad0d9.jpg" width="50%" height="50%"></p>
 
 ###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/dziekuje-afisz-ilustracja-koncepcja_34680457.htm#page=7&query=thank%20you&position=40&from_view=search&track=ais" target="_blank">Image by Storyset on Freepik</a></p> 
-
-
-
-
-
-   <p align="left">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/10260/10260914.png" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-
-<br />
-
-#
-
-
-
-
-#
-
-### 📊 Stats
-
-
-
-#
-
-<details>
- <summary><h3>👨‍💻 Denis Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
-
 
 
 
