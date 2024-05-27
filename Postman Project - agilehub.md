@@ -47,7 +47,7 @@ The result of the project is a collection of Trello REST API tests performed in 
 
 #### <a name="one">:computer: Postman installation</a>
 
-1. Go to the [Postman website](https://www.postman.com/downloads/) and click the orange button with name of your operating system.
+1. Go to the [Postman website](https://www.postman.com/downloads/) and click the orange button with the name of your operating system.
 2. Download the installation file, then run the installer and follow the instructions that appear.
 3. Postman is ready to use.
     
@@ -81,7 +81,7 @@ The result of the project is a collection of Trello REST API tests performed in 
 1. Click on the "Collections" icon in Postman.
 2. From the list of collections, select the one named "Trello REST API" and click on the icon with three dots that appears when you hover over the collection name.
 3. Select "Run collection" from the list.
-4. Click one the orange button "Run Trello - REST API".
+4. Click on the orange button "Run Trello - REST API".
 
 --------
 ### :point_down: If the view in your Postman looks like the one on the screenshot below, then you have successfully completed all the steps and run my collection. CONGRATULATIONS! :clap:
