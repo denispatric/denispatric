@@ -1,4 +1,4 @@
-### <a name="kropka1"><p align="justify">1. Display Currency Table</p></a>
+### <a name="kropka1"><p align="justify">1. This query will return all rows and all columns from the DimCurrency table. Since there are no filtering (WHERE) or sorting (ORDER BY) clauses, it will retrieve the complete dataset as it is stored in the table.</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimCurrency]
@@ -8,7 +8,7 @@ SELECT * FROM [dbo].[DimCurrency]
 
 
 
-### <a name="kropka2"><p align="justify">2. Display CurrencyKey and CurrencyName table </p></a>
+### <a name="kropka2"><p align="justify">2. This query will return the CurrencyKey and CurrencyName columns from all rows in the DimCurrency table.</p></a>
 
 ```sql
 SELECT CurrencyKey,CurrencyName FROM [dbo].[DimCurrency]
@@ -18,7 +18,7 @@ SELECT CurrencyKey,CurrencyName FROM [dbo].[DimCurrency]
 
 
 
-### <a name="kropka3"><p align="justify">3. .</p></a>
+### <a name="kropka3"><p align="justify">3. This query will return all columns from the DimReseller table, with the rows sorted in ascending order based on the NumberEmployees column.</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimReseller]
@@ -29,7 +29,7 @@ ORDER BY NumberEmployees
 
 
 
-### <a name="kropka4"><p align="justify">4. </p></a>
+### <a name="kropka4"><p align="justify">4. This query will return all rows from the DimReseller table where the NumberEmployees value is less than 5. The resulting rows will include only the NumberEmployees and OrderFrequency columns and will be sorted by the NumberEmployees column in ascending order. </p></a>
 
 ```sql
 SELECT NumberEmployees, OrderFrequency FROM [dbo].[DimReseller]
@@ -41,7 +41,7 @@ ORDER BY NumberEmployees
 
 
 
-### <a name="kropka5"><p align="justify">5. </p></a>
+### <a name="kropka5"><p align="justify">5. This query will return all columns from the DimReseller table where the FirstOrderYear column has the value '2011'. </p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimReseller]
@@ -52,7 +52,7 @@ WHERE FirstOrderYear = '2011'
 
 
 
-### <a name="kropka6"><p align="justify">6..</p></a>
+### <a name="kropka6"><p align="justify">6. This query will return all columns from the DimReseller table where the OrderMonth falls within the range of April (4) to July (7), inclusive.</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimReseller]
@@ -62,7 +62,7 @@ WHERE OrderMonth >=4 AND OrderMonth <=7
 ![6](https://github.com/denispatric/denispatric/assets/83760732/686087e3-7a5c-4998-a2bc-5ce021a9cc68)
 
 
-### <a name="kropka7"><p align="justify">7. .</p></a>
+### <a name="kropka7"><p align="justify">7. This query will return all columns from the DimReseller table where the OrderMonth is equal to 2, 4, or 6.</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimReseller]
@@ -73,7 +73,9 @@ WHERE OrderMonth = 2 OR OrderMonth = 4 OR OrderMonth = 6
 
 
 
-### <a name="kropka8"><p align="justify">8..</p></a>
+### <a name="kropka8"><p align="justify">8. This query will return all columns from the DimReseller table where the OrderMonth is equal to 1, 3, or 5.
+
+</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimReseller]
@@ -83,7 +85,7 @@ WHERE OrderMonth IN (1, 3, 5)
 ![8](https://github.com/denispatric/denispatric/assets/83760732/1b0cb0aa-4efd-4229-8363-60743b7088ff)
 
 
-### <a name="kropka9"><p align="justify">9. .</p></a>
+### <a name="kropka9"><p align="justify">9. This query will return all columns from the DimReseller table where the ResellerName starts with the letters "De".</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimReseller]
@@ -93,7 +95,9 @@ WHERE ResellerName LIKE 'De%'
 ![9](https://github.com/denispatric/denispatric/assets/83760732/891dd80d-29db-45b9-acc8-8ac1c4bc1ba3)
 
 
-### <a name="kropka10"><p align="justify">10. .</p></a>
+### <a name="kropka10"><p align="justify">10. This query will return all columns from the DimReseller table where the AddressLine2 column is NULL.
+
+</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimReseller]
@@ -103,7 +107,7 @@ WHERE AddressLine2 IS NULL
 ![10](https://github.com/denispatric/denispatric/assets/83760732/737ec940-4223-455d-8f81-aa313a06e9a3)
 
 
-### <a name="kropka10"><p align="justify">10. .</p></a>
+### <a name="kropka10"><p align="justify">11. This query will return all columns from the DimReseller table where the NumberEmployees column is greater than 9 and the OrderMonth falls within the range of February (2) to August (8), inclusive.</p></a>
 
 ```sql
 SELECT * FROM [dbo].[DimReseller]
@@ -112,7 +116,7 @@ WHERE NumberEmployees >9 AND OrderMonth BETWEEN 2 AND 8
 
 ![11](https://github.com/denispatric/denispatric/assets/83760732/dc5ac411-0b2d-46d4-9047-6919333cbabc)
 
-### <a name="kropka10"><p align="justify">10. .</p></a>
+### <a name="kropka10"><p align="justify">12. This query updates the FirstName column of the DimEmployee table. It sets the value of FirstName to 'Denis' for the row where the EmployeeKey is 1.</p></a>
 
 ```sql
 UPDATE [dbo].[DimEmployee]
@@ -125,7 +129,7 @@ WHERE EmployeeKey = 1
 ![image](https://github.com/denispatric/denispatric/assets/83760732/93fcd334-ece5-43ff-a540-414a22633d37)
 
 
-### <a name="kropka10"><p align="justify">10. .</p></a>
+### <a name="kropka10"><p align="justify">13. This query selects the CustomerName column from the Customers table and the OrderID column from the Orders table. It then performs an inner join between the Customers and Orders tables based on the CustomerID column. Finally, it orders the result set by the CustomerName column in ascending order.</p></a>
 
 ```sql
 SELECT Customers.CustomerName, Orders.OrderID
@@ -137,10 +141,11 @@ ORDER BY CustomerName
 
 
 
-### <a name="kropka10"><p align="justify">Create a table. Use ALTER and DROP table. .</p></a>
+### <a name="kropka10"><p align="justify">14. This set of queries will create a table, ALTER and then DROP table</p></a>
 
+
+Step 1: Create a table
 ```sql
--- Step 1: Create a random table
 CREATE TABLE RandomTable (
     ID INT PRIMARY KEY,
     Name VARCHAR(50),
@@ -149,20 +154,22 @@ CREATE TABLE RandomTable (
 ```
 ![image](https://github.com/denispatric/denispatric/assets/83760732/fe0682c1-d668-4d6f-aab6-b9358bf50bc8)
 
+
+Step 2: Alter the table to add a new column
 ```sql
--- Step 2: Alter the table to add a new column
 ALTER TABLE RandomTable
 ADD Email VARCHAR(100);
 ```
 ![image](https://github.com/denispatric/denispatric/assets/83760732/cc5516e4-eb71-4d1b-9da9-8a72a5f8e3e1)
 
+
+Step 3: Drop the table
 ```sql
--- Step 3: Drop the table
 DROP TABLE RandomTable;
 ```
 ![image](https://github.com/denispatric/denispatric/assets/83760732/986e3dfc-6c11-4350-9af1-9442500859a6)
 
-### <a name="kropka10"><p align="justify">Display a common list of cities of all customers and suppliers (use the UNION function for this). .</p></a>
+### <a name="kropka10"><p align="justify"> This query will display a common list of cities of all customers and suppliers </p></a>
 
 ```sql
 SELECT City FROM Customers
