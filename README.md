@@ -159,13 +159,31 @@ Join me on this exhilarating journey where every bug squashed and every feature 
 
 ## <a name="courses">COURSES</a>
 
-### May 2023
+### May 2024
 
-☑️ <a href="https://www.udemy.com/certificate/UC-4fd0a46e-4f42-42c4-8265-b25ba2086d0c/" target="_blank">Recruitment questions and answers for the tester - Udemy</a>
+☑️ <a href="https://www.udemy.com/course/testerbootcamp/?couponCode=OF52424" target="_blank">The Complete 2024 Software Testing Bootcamp- Udemy</a>
+ 
+- Roles in the Software Development Team
+- How Software is Developed - Software Development Lifecycle Models
+- Basic Concepts of Software Testing 
+- Test Scenario Writing
+- Test Case Writing
+- Test Case Writing using Zephyr Scale
+- Test Execution & Bug Reporting 
+- Testing Reports Test Progress & Test Summary Report
+- Basics of Agile & Agile Testing 
+- How to use JIRA for Agile Testing
+- Mobile Testing Basics
+- API Testing with Postman
+- Performance Testing using JMeter
+- SQL For Testers
+- Black-Box Test Techniques
+- White Box Test Techniques
 
-### April 2023
 
-☑️ <a href="https://www.nowaty.coi.gov.pl/" target="_blank">New you in IT - Centralny Ośrodek Informatyki</a>
+### April 2024
+
+☑️ <a href="https://m.goit.global/ro/?tagtag_uid=CjwKCAjwgdayBhBQEiwAXhMxtjCQFGb1qhsA9iTqkcTX8e4e55H5eUKMiXxI-DI2sWaulsnqCvy9CxoCL8sQAvD_BwE&utm_source=admitad&gad_source=1&gclid=CjwKCAjwgdayBhBQEiwAXhMxtjCQFGb1qhsA9iTqkcTX8e4e55H5eUKMiXxI-DI2sWaulsnqCvy9CxoCL8sQAvD_BwE" target="_blank">7-Day Marathon QA - GoIT</a>
 
 - SCRUM methodology
 - Agile approach
@@ -173,7 +191,7 @@ Join me on this exhilarating journey where every bug squashed and every feature 
 - roles in the software development process
 - project success factors
 
-☑️ <a href="https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535&utm_term=146264932926|652825193268||go-it&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3KnsR1nsyVDGSMKU0Rik7QbR2aWH7Dwb69fbmp7JSQsoSNztEpy_ghoCqsEQAvD_BwE" target="_blank">7-Day Marathon HTML+CSS - GoIT</a>
+☑️ <a href="https://html-m-lp-ro.goit.global/?utm_source=google&utm_medium=cpc&utm_campaign=OR_FS_Marathon_Search_Brand_TCPA&campaignid=21218038220&utm_content=160966913746&utm_term=697358618569&keyword=goit%20global&placement&gad_source=1&gclid=CjwKCAjwgdayBhBQEiwAXhMxthMFlAl0BRdi9I03XtOBIylR1U8QSD-J6KkjD3eEDSZ44_PIcO8-bRoCzn4QAvD_BwE">7-Day Marathon HTML+CSS - GoIT</a>
 
 - Figma basics
 - Visual Studio Code basics
@@ -187,9 +205,9 @@ Join me on this exhilarating journey where every bug squashed and every feature 
 - working in Confluence
 - Confluence best practices
 
-### March 2023
+### March 2024
 
-☑️ <a href="https://www.udemy.com/certificate/UC-3cc0dcec-06d8-494b-bbea-3fc9987955c3/" target="_blank">GIT course for beginners ('Kurs GIT dla początkujących') - Udemy</a>
+☑️ <a href="https://www.udemy.com/course/git-expert-4-hours/">Git: Become an Expert in Git & GitHub in 4 Hours</a>
 
 - creating a local repository
 - adding files to the repository and tracking changes to those files
@@ -314,7 +332,7 @@ Join me on this exhilarating journey where every bug squashed and every feature 
 
 ## <a name="events">TECH EVENTS</a>
 
-:arrow_forward: <a href="https://womentechstyle.pl/" target="_blank"><b>Women Techstyle Summit 2023 (online)</b></a>
+:arrow_forward: <a href="https://womentechstyle.pl/" target="_blank"><b>IT Fest GoIT 25.05.2024 (online)</b></a>
 - <a href="https://www.youtube.com/watch?v=PPdy60_vIU8" target="_blank">Być albo nie być? Kobieta na rynku pracy i w trakcie rekrutacji.</a> - *Michalina Błażejewska*
 - <a href="https://www.youtube.com/watch?v=syNNyEG1qt4" target="_blank">Houston, mamy problem - proces reagowania na incydenty bezpieczeństwa</a> - *Aleksandra Kornecka*
 - <a href="https://www.youtube.com/watch?v=401gLvFYarg" target="_blank">Make love (and software) not war. Jak budować wspierające zespoły projektowe?</a> - *Anna Kalemba*
