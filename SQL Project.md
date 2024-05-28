@@ -1,3 +1,7 @@
+## AGILEHUB 05/2024 project: SQL basics
+
+
+
 | Query | Description |
 |-------|-------------|
 | `SELECT NumberEmployees, OrderFrequency FROM [dbo].[DimReseller] WHERE NumberEmployees < 5 ORDER BY NumberEmployees;` | Retrieves the number of employees and order frequency from the `DimReseller` table where the number of employees is less than 5, sorted by number of employees. |
