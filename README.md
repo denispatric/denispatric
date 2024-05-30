@@ -121,8 +121,6 @@ Welcome to the thrilling chronicles of my journey as a freelance software tester
 
 Manual Testing: Executed test plans, test cases, and defect reports, while keeping everyone in the loop with comprehensive test progress and summary reports.
 
-Automation: Web automation wizardry using Selenium to ensure seamless user experiences.
-
 Performance: Pushing the limits with JMeter to guarantee optimal performance under pressure.
 
 API: Harnessing the power of Postman to test APIs with precision and flair.
