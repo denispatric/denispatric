@@ -311,16 +311,16 @@ msg systems Romania
 
   ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5) ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)
 
-## <a name="books">AUDIOBOOKS ABOUT TESTING</a>
+## <a name="books">BOOKS AND AUDIOBOOKS ABOUT SOFTWARE TESTING</a>
 
-:arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Effective Software Testing
+:arrow_forward: <a href="https://www.audible.com/pd/Effective-Software-Testing-Audiobook/B0B5FHP91L?ref_pageloadid=not_applicable&ref=a_topic_aud_c2_lProduct_1_1&pf_rd_p=e1a087a6-c077-456d-9e18-1d9e4e79d7b9&pf_rd_r=WK5TXXNVTS93N8T3J2R1&pageLoadId=9O0UKftlocALlelW&creativeId=755b9948-eaa6-4ecb-b8b6-a097303f0fe4" target="_blank">Effective Software Testing
 A Developer's Guide
 By: Maurizio Aniche</a>
 
-:arrow_forward: <a href="https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm" target="_blank">Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)</a>
+:arrow_forward: <a href="https://scrummalaysia.com/media/attachments/2020/03/18/agile_testing_-_a_practical_guide_for_testers_and_agile_teams.pdf">Agile Testing: A Practical Guide for Testers and Agile Teams" by Lisa Crispin and Janet Gregory</a>
 
-:arrow_forward: <a href="https://szkoleniedlaqa.pl/plan/" target="_blank">Zacznij działać. Twój plan działania jako przyszły specjalista Quality Assurance (Adam Gola)</a>
+:arrow_forward: <a href="https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025" target="_blank">Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing" by Elisabeth Hendrickson</a>
 
-:arrow_forward: <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
+:arrow_forward: <a href="https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/1118031962" target="_blank">The Art of Software Testing" by Glenford J. Myers, Corey Sandler, and Tom Badgett</a>
 
-:arrow_forward: <a href="https://helion.pl/ksiazki/sciezka-testera-certyfikat-istqb-w-pytaniach-i-odpowiedziach-rafal-podraza,istqbw.htm#format/e" target="_blank">Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach (Rafał Podraza)</a>
+:arrow_forward: <a href="https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692" target="_blank">Perfect Software and Other Illusions about Testing" by Gerald M. Weinberg</a>
