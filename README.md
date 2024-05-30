@@ -244,35 +244,36 @@ Join me on this exhilarating journey where every bug squashed and every feature 
 
 ## <a name="softskills">SOFT SKILLS</a>
 
-🔎 precision and attention to quality
+🔎 Attention to Detail
 
-🙌 communication and teamwork skills
+🤝 Communication and teamwork skills
 
-💥 critical thinking
+💥 Critical thinking
 
-📚 ability to learn new tools, systems and processes quickly
+📚 Ability to learn new tools, systems and processes quickly
 
-💡 thinking outside the box
+💡 Thinking outside the box
 
-:chart_with_upwards_trend: problem solving and analytical skills
+:chart_with_upwards_trend: Problem solving and analytical skills
 
-:rocket: proactive attitude
+:rocket: Proactive mindset
 
-🔁 desire for self-development
+🔁 Drive for self-improvement
 
-🔋 energetic and motivated
+🔋 Enthusiastic and driven
 
-:clipboard: well-organized
+:clipboard: Highly organized
 
-🙅‍♀️ assertive
+🙅‍♀️ Confident and assertive
+
 
 ## <a name="gallup">TOP 5 GALLUP STRENGHTS</a>
 
-:one: Individualization 
+:one: Analytical  
 
-:two: Input 
+:two: Deliberative  
 
-:three: Maximizer
+:three: Focus 
 
 :four: Positivity
 
@@ -280,19 +281,23 @@ Join me on this exhilarating journey where every bug squashed and every feature 
 
 ## <a name="events">TECH EVENTS</a>
 
-:arrow_forward: <a href="https://womentechstyle.pl/" target="_blank"><b>IT Fest GoIT 25.05.2024 (online)</b></a>
-- <a href="https://www.youtube.com/watch?v=PPdy60_vIU8" target="_blank">Być albo nie być? Kobieta na rynku pracy i w trakcie rekrutacji.</a> - *Michalina Błażejewska*
-- <a href="https://www.youtube.com/watch?v=syNNyEG1qt4" target="_blank">Houston, mamy problem - proces reagowania na incydenty bezpieczeństwa</a> - *Aleksandra Kornecka*
-- <a href="https://www.youtube.com/watch?v=401gLvFYarg" target="_blank">Make love (and software) not war. Jak budować wspierające zespoły projektowe?</a> - *Anna Kalemba*
+:arrow_forward: <a href="https://itfest.goit.global" target="_blank"><b>IT Fest GoIT (25.05.2024 online)</b></a>
 
-:arrow_forward: <a href="https://brandsome.it/api/admin/user/e2119cc7-bc92-4be2-8c6c-dc4794fe7b4e/certificate" target="_blank"><b>Warszawskie Dni Informatyki 2023 (Warsaw IT Days)</b></a>
-- The Future is Today: Leveraging AI in Software Testing - *Mesut Durukal* (online)
-- Podstawy accessibility testing - czy jest to w ogóle potrzebne? - *Tomasz Szyrner* (VoD)
-- Jak się przebranżowić do IT z sukcesem? Będąc mamą i żoną na pełen etat? A o IT wiedzieć tyle co nic - opowiem Ci moją historię. Jak bez znajomości, pleców i ziomków w branży, można znaleźć miejsce dla siebie. - *Anna Miechowicz* (VoD)
-- Elevator Pitch, czyli jak zaciekawić sobą i swoim pomysłem - *Adrian Sasin* (onsite)
-- Mastering testing in agile environments. Based on case studies - *Andrzej Mika* (onsite)
+:arrow_forward: <a href="https://www.itdays.ro" target="_blank"><b>IT Days (Cluj 08.11.2023)</b></a>
+- Self-managing Teams: An Utopia?/
+Simona Bonghez/
+Colors in Projects
+- Agile Leadership – Building an Agile culture with three big steps plus a small one/
+Bogdan Mureșan/
+Connatix
+- There is no perfect story/
+Loredana Vigu/
+CodeCrafters by BT
+- Breaking the Cycle: Thoughts on Minimizing Project Failures/
+Cătălin Rusu/
+msg systems Romania
 
-## <a name="apps">THE CODDING APPS - TRAINING</a>
+## <a name="apps">CODING APPS I CURRENTLY USE - TRAINING</a>
 
 - [**MIMO**](https://mimo.org/) 
 
@@ -306,9 +311,11 @@ Join me on this exhilarating journey where every bug squashed and every feature 
 
   ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5) ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)
 
-## <a name="books">BOOKS ABOUT TESTING</a>
+## <a name="books">AUDIOBOOKS ABOUT TESTING</a>
 
-:arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
+:arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Effective Software Testing
+A Developer's Guide
+By: Maurizio Aniche</a>
 
 :arrow_forward: <a href="https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm" target="_blank">Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)</a>
 
@@ -317,38 +324,3 @@ Join me on this exhilarating journey where every bug squashed and every feature 
 :arrow_forward: <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
 
 :arrow_forward: <a href="https://helion.pl/ksiazki/sciezka-testera-certyfikat-istqb-w-pytaniach-i-odpowiedziach-rafal-podraza,istqbw.htm#format/e" target="_blank">Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach (Rafał Podraza)</a>
-
-## <a name="blogs">RECOMMENDED BLOGS ABOUT TESTING</a>
-
-:arrow_forward: [testuj.pl](https://testuj.pl/blog/)
-
-:arrow_forward: [Quality Island](https://qualityisland.pl/blog/)
-
-:arrow_forward: [Waldemar Szafraniec: testy i szkolenia](https://www.wyszkolewas.com.pl/)
-
-:arrow_forward: [Tester - Milena Bednarczyk](https://tester.milenabednarczyk.pl/)
-
-:arrow_forward: [testelka](https://testelka.pl/blog/)
-
-## <a name="face">GROUPS ABOUT TESTING ON FACEBOOK</a>
-
-:arrow_forward: [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
-
-:arrow_forward: [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie/)
-
-:arrow_forward: [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
-
-:arrow_forward: [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/jakzostactesterem/)
-
-:arrow_forward: [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie/)
-
-:arrow_forward: [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
-
----------
-
-<p align="center"><img src="https://user-images.githubusercontent.com/122294284/219984340-432a6a4e-6f59-4125-b9ca-efb6094ad0d9.jpg" width="50%" height="50%"></p>
-
-###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/dziekuje-afisz-ilustracja-koncepcja_34680457.htm#page=7&query=thank%20you&position=40&from_view=search&track=ais" target="_blank">Image by Storyset on Freepik</a></p> 
-
-
-
