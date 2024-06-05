@@ -33,7 +33,7 @@ The result of the project is a collection of Trello REST API tests performed in 
 
 #### :pushpin: List of steps needed to run collection and tests
 
-1️⃣ [Postman installation](#one)
+:one: [Postman installation](#one)
 
 :two: [Creating a Trello account](#two)
 
@@ -41,7 +41,7 @@ The result of the project is a collection of Trello REST API tests performed in 
 
 :four: [Importing a file into Postman](#four)
 
-:five: [Run collection and start testing](#six)
+:five: [Run collection and start testing](#five)
 
 ------
 
@@ -76,7 +76,7 @@ The result of the project is a collection of Trello REST API tests performed in 
 5. Do the same with the environment files
 6. The collection will appear in Postman, ready for use.   
 
-#### <a name="six">:runner: Run collection and start testing</a>
+#### <a name="five">:runner: Run collection and start testing</a>
 
 1. Click on the "Collections" icon in Postman.
 2. From the list of collections, select the one named "Trello REST API" and click on the icon with three dots that appears when you hover over the collection name.
