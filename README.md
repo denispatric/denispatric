@@ -2,8 +2,9 @@
 
 **`QA Tester (Bug Hunter/Investigator/Innovator)`**
 
-👋 Hello! I'm Denis, a passionate QA Software Tester with a keen eye for detail and a commitment to ensuring software quality. 🕵️‍♂️ My journey in the world of testing involves exploring applications, identifying bugs, and collaborating with development teams to deliver high-quality software. 🚀 Excited to contribute to projects that value precision and user satisfaction. Let's collaborate and make software testing an integral part of the development process! 🧪🛠️
+👋 Hello! I'm Denis, a 28-year-old who decided to pivot from being a financial advisor to embracing the dynamic world of software testing. Driven by a constant quest for knowledge and new challenges, I dreamed of a career that would allow me to continuously develop and leverage my talent for spotting inconsistencies.
 
+<b>What are my skills?</b> During my training, I've learned <b>SQL, Chrome DevTools, Jira, Confluence, Postman, GIT, and the basics of HTML/CSS.</b> My background as a financial advisor has sharpened my <b>attention to detail, analytical thinking, and problem-solving skills, but also being a team player and a good communicator</b>, all of which are directly applicable to my role as a software tester. Just as I analyzed financial data to ensure accuracy and compliance, I now carefully examine and analyze software to ensure quality and functionality.
 
 
 
@@ -14,7 +15,7 @@
 ---
 
 # 🧰 Languages and Tools:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 -----------
 
@@ -321,3 +322,7 @@ By: Maurizio Aniche</a>
 :arrow_forward: <a href="https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/1118031962" target="_blank">The Art of Software Testing" by Glenford J. Myers, Corey Sandler, and Tom Badgett</a>
 
 :arrow_forward: <a href="https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692" target="_blank">Perfect Software and Other Illusions about Testing" by Gerald M. Weinberg</a>
+
+---------
+
+![funny-thank-you-creepy-dog-sicxutj7564e251l](https://github.com/denispatric/denispatric/assets/83760732/f80f7d9f-a2b9-46a9-9153-3d93c94ec8a4)
