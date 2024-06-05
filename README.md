@@ -1,6 +1,6 @@
 # Denis Patric Trif
 
-**`QA Tester (Bug Hunter/Investigator/Innovator)`**
+**`Software Tester (Bug Hunter/Investigator/Innovator)`**
 
 👋 Hello! I'm Denis, a 28-year-old who decided to pivot from being a financial advisor to embracing the dynamic world of software testing. Driven by a constant quest for knowledge and new challenges, I dreamed of a career that would allow me to continuously develop and leverage my talent for spotting inconsistencies.
 
