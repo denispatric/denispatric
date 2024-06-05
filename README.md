@@ -1,4 +1,4 @@
-# Denis Patric
+# Denis Patric Trif
 
 **`QA Tester (Bug Hunter/Investigator/Innovator)`**
 
