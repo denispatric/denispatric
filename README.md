@@ -15,5 +15,8 @@
 
 ### <p align="justify"><a href="https://github.com/denispatric/denispatric/blob/main/SQL%20Project.md" target="_blank">:point_right: SQL Project </a></p>
 
+![image](https://github.com/denispatric/denispatric/assets/83760732/4ab7c643-c7ad-4388-9711-d8b57d7ea8ad)
+
+
 </p>
 
