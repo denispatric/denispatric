@@ -4,7 +4,7 @@
 
 -----
 
-:white_circle: [ABOUT ME](#aboutme) :white_circle: [SOFTWARE TESTER PORTFOLIO](#portfolio) :white_circle: [TEST CASES example](#testcases) :white_circle: [REQUIREMENT DOCUMENTATION SRS](#srs) :white_circle: [TEST CASE DEVELOPMENT example](#testcasedevelop) :white_circle: [TEST ENVIRONMENTS example](#testenviorments) :white_circle: [DECATHLON MOBILE APP](#decathlon) :white_circle: [API TESTING WITH POSTMAN](#postman) :white_circle:  [SQL TASKS](#sql) :white_circle: [COURSES](#courses) :white_circle:  [MY JOURNEY AS A FREELANCE SOFTWARE TESTER](#myjourney) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills) :white_circle: [TOP 5 GALLUP STRENGHTS](#gallup) :white_circle: [TECH EVENTS](#events) :white_circle: [THE CODDING APPS - training](#apps) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle:
+:white_circle: [ABOUT ME](#aboutme) :white_circle: [SOFTWARE TESTER PORTFOLIO](#portfolio) :white_circle: [TEST CASES example](#testcases) :white_circle: [REQUIREMENT DOCUMENTATION SRS](#srs) :white_circle: [TEST CASE DEVELOPMENT example](#testcasedevelop) :white_circle: [TEST ENVIRONMENTS example](#testenviorments) :white_circle: [DECATHLON MOBILE APP](#decathlon) :white_circle: [API TESTING WITH POSTMAN](#postman) :white_circle:  [SQL TASKS](#sql) :white_circle: [COURSES](#courses) :white_circle:  [MY JOURNEY AS A FREELANCE SOFTWARE TESTER](#myjourney) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills) :white_circle: [TOP 5 GALLUP STRENGHTS](#gallup) :white_circle: [TECH EVENTS](#events) :white_circle: [CODING APPS - training](#apps) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle:
 
 -----
 
